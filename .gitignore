@@ -1,0 +1,48 @@
+# Ignore build and publish folders
+bin/
+obj/
+out/
+publish/
+
+# Azure Functions local settings
+local.settings.json
+
+# Visual Studio and VS Code settings
+.vscode/
+*.user
+*.suo
+
+# Mac and Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# npm and Node dependencies (if using JavaScript or TypeScript)
+node_modules/
+dist/
+npm-debug.log
+yarn.lock
+package-lock.json
+
+# Python virtual environments (if using Python Azure Functions)
+.env/
+__pycache__/
+*.pyc
+
+# Azure Functions artifacts
+funcpack.zip
+*.ps1
+*.cmd
+
+# Terraform or Bicep state files (if infra-as-code is used)
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Docker
+*.tar
+*.dockerfile
+docker-compose.override.yml
+.env.docker
