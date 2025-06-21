@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "DurableTaskFrameworkBasics": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7053",
+      "launchBrowser": false
+    }
+  }
+}

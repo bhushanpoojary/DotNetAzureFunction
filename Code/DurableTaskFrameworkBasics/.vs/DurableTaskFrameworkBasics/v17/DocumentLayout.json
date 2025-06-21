@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a\\Documents\\Udemy\\.NET\\Azure Functions and Durable Functions\\Git\\Code\\DurableTaskFrameworkBasics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23D6A911-C646-4199-BB41-21898A5BFB48}|DurableTaskFrameworkBasics\\DurableTaskFrameworkBasics.csproj|c:\\users\\a\\documents\\udemy\\.net\\azure functions and durable functions\\git\\code\\durabletaskframeworkbasics\\durabletaskframeworkbasics\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D6A911-C646-4199-BB41-21898A5BFB48}|DurableTaskFrameworkBasics\\DurableTaskFrameworkBasics.csproj|solutionrelative:durabletaskframeworkbasics\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D6A911-C646-4199-BB41-21898A5BFB48}|DurableTaskFrameworkBasics\\DurableTaskFrameworkBasics.csproj|c:\\users\\a\\documents\\udemy\\.net\\azure functions and durable functions\\git\\code\\durabletaskframeworkbasics\\durabletaskframeworkbasics\\durabletaskframeworkbasics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23D6A911-C646-4199-BB41-21898A5BFB48}|DurableTaskFrameworkBasics\\DurableTaskFrameworkBasics.csproj|solutionrelative:durabletaskframeworkbasics\\durabletaskframeworkbasics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DurableTaskFrameworkBasics",
+              "DocumentMoniker": "C:\\Users\\a\\Documents\\Udemy\\.NET\\Azure Functions and Durable Functions\\Git\\Code\\DurableTaskFrameworkBasics\\DurableTaskFrameworkBasics\\DurableTaskFrameworkBasics.csproj",
+              "RelativeDocumentMoniker": "DurableTaskFrameworkBasics\\DurableTaskFrameworkBasics.csproj",
+              "ToolTip": "C:\\Users\\a\\Documents\\Udemy\\.NET\\Azure Functions and Durable Functions\\Git\\Code\\DurableTaskFrameworkBasics\\DurableTaskFrameworkBasics\\DurableTaskFrameworkBasics.csproj",
+              "RelativeToolTip": "DurableTaskFrameworkBasics\\DurableTaskFrameworkBasics.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-21T14:21:31.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Documents\\Udemy\\.NET\\Azure Functions and Durable Functions\\Git\\Code\\DurableTaskFrameworkBasics\\DurableTaskFrameworkBasics\\Function1.cs",
+              "RelativeDocumentMoniker": "DurableTaskFrameworkBasics\\Function1.cs",
+              "ToolTip": "C:\\Users\\a\\Documents\\Udemy\\.NET\\Azure Functions and Durable Functions\\Git\\Code\\DurableTaskFrameworkBasics\\DurableTaskFrameworkBasics\\Function1.cs",
+              "RelativeToolTip": "DurableTaskFrameworkBasics\\Function1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwC4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:26:20.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
