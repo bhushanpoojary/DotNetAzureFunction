@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a\\Documents\\Udemy\\.NET\\Azure Functions and Durable Functions\\Git\\Code\\FunctionAppIsolatedModel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA32E6A-BCF0-4878-98BC-A5CFA55B963F}|FunctionAppIsolatedModel\\FunctionAppIsolatedModel.csproj|c:\\users\\a\\documents\\udemy\\.net\\azure functions and durable functions\\git\\code\\functionappisolatedmodel\\functionappisolatedmodel\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA32E6A-BCF0-4878-98BC-A5CFA55B963F}|FunctionAppIsolatedModel\\FunctionAppIsolatedModel.csproj|solutionrelative:functionappisolatedmodel\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Documents\\Udemy\\.NET\\Azure Functions and Durable Functions\\Git\\Code\\FunctionAppIsolatedModel\\FunctionAppIsolatedModel\\Function1.cs",
+              "RelativeDocumentMoniker": "FunctionAppIsolatedModel\\Function1.cs",
+              "ToolTip": "C:\\Users\\a\\Documents\\Udemy\\.NET\\Azure Functions and Durable Functions\\Git\\Code\\FunctionAppIsolatedModel\\FunctionAppIsolatedModel\\Function1.cs",
+              "RelativeToolTip": "FunctionAppIsolatedModel\\Function1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:49:17.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
